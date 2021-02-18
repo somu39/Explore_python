@@ -1,1 +1,1 @@
-print("hello warld")Somu2271996@
+print("hello warld")
