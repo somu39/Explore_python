@@ -1,7 +1,18 @@
-print("hello warld iam somesh das")
-var = 25
-char_name = 'somesh'
-char_age = 24.5
+dob = '22/07/1996'
+print(dob)
 
-my_string='somesh das'
-print(my_string[1:6])
+print(dob.split())
+l1 = len(dob)
+
+print(dob[0:2])
+print(dob[3:5])
+print(dob[6:10])
+
+dd = int(dob[0:2])
+mm = int(dob[3:5])
+yy = int(dob[6:10])
+
+num = '02'
+num2 = int(num)
+
+
